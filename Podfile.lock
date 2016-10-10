@@ -1,0 +1,17 @@
+PODS:
+  - box-ios-sdk (1.0.14):
+    - box-ios-sdk/logger (= 1.0.14)
+    - box-ios-sdk/no-arc (= 1.0.14)
+  - box-ios-sdk/logger (1.0.14)
+  - box-ios-sdk/no-arc (1.0.14):
+    - box-ios-sdk/logger
+
+DEPENDENCIES:
+  - box-ios-sdk
+
+SPEC CHECKSUMS:
+  box-ios-sdk: 8034a7b0fcac562105725afa744011c81da99398
+
+PODFILE CHECKSUM: 87becff9c3b3d2765aeaac0a339fc4309ac89489
+
+COCOAPODS: 1.0.1

@@ -1,0 +1,6 @@
+framework module Pods_MSBoxPOC {
+  umbrella header "Pods-MSBoxPOC-umbrella.h"
+
+  export *
+  module * { export * }
+}
